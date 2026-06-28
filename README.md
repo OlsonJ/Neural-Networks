@@ -10,3 +10,4 @@ This repo is for my personal R&amp;D toward working on an AI brain. Research is 
 
 - https://www.kaggle.com/code/kanncaa1/deep-learning-tutorial-for-beginners (Deep Learning)
 - https://www.kaggle.com/code/kanncaa1/convolutional-neural-network-cnn-tutorial (Convolutional)
+- This line was added as a test of updated gh setup
